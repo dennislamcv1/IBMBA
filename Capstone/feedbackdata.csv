@@ -1,0 +1,199 @@
+FeedbackID	PatientID	Department	Feedback Score	Comments	WaitTime
+F1000	P99601	Cardiology	4	Delayed response	45
+F1001	P36565	Orthopedics	3	Needs improvement	45
+F1002	P99601			Excellent care	30
+F1003	P67499	Neurology	9	Amazing team	30
+F1004	P49994	Pediatric	8	Great doctors	45
+F1005	P31843	Pediatric	5	Satisfactory	45
+F1006	P63392	Neurology	4	Delayed response	45
+F1007	P66658	Neurology	7	Child-friendly staff	45
+F1008	P95953	Cardiology	7	Child-friendly staff	45
+F1009	P80770	Orthopedics	4	Delayed response	45
+F1010	P29680	Orthopedics	4	Room cleanliness issue	45
+F1011	P93978	Orthopedics	3	Long wait times	45
+F1012	P25878	Pediatric	7	Child-friendly staff	45
+F1013	P41254	Cardiology	3	Long wait times	45
+F1014	P73818	Orthopedics	3	Long wait times	45
+F1015	P79312	Neurology	6	Very good	45
+F1016	P82827	Neurology	5	Average	45
+F1017	P25878			Helpful staff	
+F1018	P93291	Neurology	8	Efficient process	45
+F1019	P14299	Cardiology	8	Great doctors	45
+F1020	P90461	Oncology	3	Needs improvement	45
+F1021	P77174	Pediatric	4	Delayed response	45
+F1022	P38694	General Medicine	7	Child-friendly staff	45
+F1023	P45916	General Medicine	4	Delayed response	45
+F1024	P67499	General Medicine	9	Highly recommended	30
+F1025	P68619	Pediatric	4	Delayed response	45
+F1026	P11071	Orthopedics	7	Child-friendly staff	45
+F1027	P18878	Pediatric	7	Satisfactory	45
+F1028	P88817	Pediatric	3	Needs improvement	45
+F1029	P70452	Neurology	9	Excellent care	30
+F1030	P79213	General Medicine	4	Room cleanliness issue	45
+F1031	P92292	Orthopedics	3	Needs improvement	45
+F1032	P46858	Oncology	5	Average	45
+F1033	P10337	Neurology	9	Highly recommended	30
+F1034	P76416	Oncology	6	Very good	45
+F1035	P47558	Orthopedics	9	Amazing team	30
+F1036	P10851	General Medicine	7	Helpful staff	45
+F1037	P70960	General Medicine	3	Long wait times	45
+F1038	P15042	General Medicine	5	Average	45
+F1039	P56742	Pediatric	9	Good service	30
+F1040	P30132	Pediatric	9	Amazing team	30
+F1041	P43686	Neurology	7	Helpful staff	45
+F1042	P43188	Neurology	4	Delayed response	45
+F1043	P35517	Cardiology	5	Average	45
+F1044	P87789	Orthopedics	9	Highly recommended	30
+F1045	P76847	Orthopedics	7	Child-friendly staff	45
+F1046	P97899	Neurology	5	Average	45
+F1047	P67499			Efficient process	45
+F1048	P22024	Neurology	7	Child-friendly staff	45
+F1049	P61654	Pediatric	4	Room cleanliness issue	45
+F1050	P25059	Orthopedics	3	Needs improvement	45
+F1051	P80104	Cardiology	9	Excellent care	30
+F1052	P89217	Cardiology	8	Efficient process	45
+F1053	P40896	Cardiology	9	Amazing team	30
+F1054	P69830	Neurology	4	Delayed response	45
+F1055	P93573	Oncology	4	Delayed response	45
+F1056	P27259	Neurology	3	Long wait times	45
+F1057	P11866	General Medicine	3	Needs improvement	45
+F1058	P82148	Oncology	9	Good service	30
+F1059	P96356	Neurology	9	Amazing team	30
+F1060	P95475	Neurology	6	Very good	45
+F1061	P24760	Oncology	9	Amazing team	30
+F1062	P94013	Cardiology	5	Average	45
+F1063	P28262	Neurology	7	Satisfactory	45
+F1064	P27012	General Medicine	8	Great doctors	45
+F1065	P16262	Oncology	9	Amazing team	30
+F1066	P42600	General Medicine	3	Long wait times	45
+F1067	P59519	Oncology	8	Efficient process	45
+F1068	P87869	General Medicine	9	Highly recommended	30
+F1069	P63392	Cardiology	9	Amazing team	30
+F1070	P77563	Neurology	9	Good service	30
+F1071	P29377	Orthopedics	8	Efficient process	45
+F1072	P68223	Neurology	8	Efficient process	45
+F1073	P55949	Pediatric	9	Excellent care	30
+F1074	P23588	Cardiology	8	Efficient process	45
+F1075	P73075	Oncology	4	Delayed response	45
+F1076	P82492	Neurology	6	Very good	45
+F1077	P77493	Orthopedics	8	Efficient process	45
+F1079	P59755	General Medicine	4	Delayed response	45
+F1080	P71033	Oncology	3	Long wait times	45
+F1081	P66658	Cardiology	7	Satisfactory	45
+F1082	P76574	Cardiology	4	Room cleanliness issue	45
+F1083	P34541	Oncology	9	Highly recommended	30
+F1084	P22316	Oncology	9	Excellent care	30
+F1085	P28861	Pediatric	9	Highly recommended	30
+F1086	P11217	Cardiology	8	Efficient process	45
+F1087	P56741	Oncology	7	Child-friendly staff	45
+F1088	P19592	Pediatric	8	Great doctors	45
+F1089	P94928	Orthopedics	7	Satisfactory	45
+F1090	P73844	Orthopedics	4	Room cleanliness issue	45
+F1091	P50711	General Medicine	8	Efficient process	45
+F1092	P30920	Pediatric	7	Satisfactory	45
+F1093	P26650	Orthopedics	4	Room cleanliness issue	45
+F1094	P22791	Oncology	9	Highly recommended	30
+F1095	P17310	General Medicine	6	Very good	45
+F1096	P61087	Pediatric	9	Amazing team	30
+F1097	P81824	Neurology	4	Room cleanliness issue	45
+F1098	P24131	Cardiology	4	Delayed response	45
+F1099	P55235	Oncology	6	Very good	45
+F1100	P65114	Orthopedics	9	Excellent care	30
+F1101	P88218	Pediatric	8	Efficient process	45
+F1102	P34644	Neurology	4	Delayed response	45
+F1103	P29322	Neurology	7	Satisfactory	45
+F1104	P64103				
+F1105	P93372	General Medicine	4	Delayed response	45
+F1106	P33026	Orthopedics	8	Great doctors	45
+F1107	P47436	Cardiology	8	Efficient process	45
+F1108	P48965	Oncology	9	Highly recommended	30
+F1109	P20771	Pediatric	6	Very good	45
+F1110	P32966	Pediatric	6	Very good	45
+F1111	P65077	General Medicine	4	Delayed response	45
+F1112	P30147	Oncology	3	Long wait times	45
+F1113	P28668	Pediatric	4	Delayed response	45
+F1114	P54890	Oncology	4	Room cleanliness issue	45
+F1115	P77589	Pediatric	3	Long wait times	45
+F1116	P59917	General Medicine	7	Satisfactory	45
+F1117	P89260	Oncology	9	Amazing team	30
+F1118	P22612	Orthopedics	9	Good service	30
+F1119	P10983	Neurology	7	Helpful staff	45
+F1120	P61404	Cardiology	8	Efficient process	45
+F1121	P68408	Neurology	8	Great doctors	45
+F1122	P80709	Cardiology	4	Delayed response	45
+F1123	P22483	Orthopedics	3	Long wait times	45
+F1124	P29433	General Medicine	4	Delayed response	45
+F1126	P63392	Orthopedics	7	Satisfactory	45
+F1127	P24186	General Medicine	7	Helpful staff	45
+F1128	P12075	Pediatric	4	Delayed response	45
+F1129	P80770	Oncology	9	Highly recommended	30
+F1130	P17033	Orthopedics	3	Long wait times	45
+F1131	P53406	Cardiology	3	Long wait times	45
+F1132	P74577	Oncology	8	Efficient process	45
+F1133	P54686	Cardiology	9	Amazing team	30
+F1134	P15042		5		45
+F1135	P66658	Oncology	9	Amazing team	30
+F1136	P46158	Cardiology	9	Highly recommended	30
+F1137	P47910	Orthopedics	8	Efficient process	45
+F1138	P69894	Pediatric	9	Good service	30
+F1139	P86247	Pediatric	5	Average	45
+F1140	P38330	Pediatric	3	Needs improvement	45
+F1141	P42193	General Medicine	8	Efficient process	45
+F1142	P29032	Pediatric	3	Long wait times	45
+F1143	P72811	Orthopedics	3	Needs improvement	45
+F1144	P96259	Orthopedics	4	Room cleanliness issue	45
+F1145	P44251	Neurology	4	Room cleanliness issue	45
+F1146	P16884	Pediatric	8	Efficient process	45
+F1147	P81817	General Medicine	3	Needs improvement	45
+F1148	P77843	Cardiology	9	Good service	30
+F1149	P57937	Cardiology	8	Great doctors	45
+F1150	P82099	Orthopedics	8	Efficient process	45
+F1151	P94085	Pediatric	9	Amazing team	30
+F1152	P50596	Pediatric	5	Average	45
+F1153	P52297	Neurology	4	Delayed response	45
+F1154	P69830			Efficient process	45
+F1155	P84444	Cardiology	8	Efficient process	45
+F1156	P84949	Pediatric	3	Needs improvement	45
+F1157	P53519	Neurology	4	Delayed response	45
+F1158	P38037	Pediatric	9	Highly recommended	30
+F1159	P28397	Pediatric	6	Long wait times	45
+F1160	P41694	Oncology	4	Long wait times	45
+F1161	P64103	Oncology	9	Excellent care	30
+F1162	P87617	Pediatric	4	Delayed response	45
+F1163	P28106	Orthopedics	8	Efficient process	45
+F1164	P81675	General Medicine	4	Long wait times	45
+F1165	P42541	Orthopedics	7	Child-friendly staff	45
+F1166	P90961	Orthopedics	9	Good service	30
+F1167	P89375	Oncology	8	Great doctors	45
+F1168	P50132	Cardiology	6	Very good	45
+F1169	P32413	Oncology	3	Needs improvement	45
+F1170	P22184	Oncology	6	Very good	45
+F1171	P50298	Cardiology	4	Room cleanliness issue	45
+F1172	P36715	Cardiology	9	Highly recommended	30
+F1173	P88279	Pediatric	7	Child-friendly staff	45
+F1174	P55468	Pediatric	7	Helpful staff	45
+F1175	P22511	Cardiology	8	Efficient process	45
+F1176	P95021	Cardiology	9	Excellent care	30
+F1177	P43786	Pediatric	9	Highly recommended	30
+F1178	P18635	Pediatric	6	Very good	45
+F1179	P28088	General Medicine	4	Delayed response	45
+F1180	P88045	Neurology	6	Very good	45
+F1181	P95964	Pediatric	8	Efficient process	45
+F1182	P32057	Oncology	8	Efficient process	45
+F1183	P32295	Cardiology	9	Excellent care	30
+F1184	P40762	Neurology	5	Average	45
+F1185	P86619	Neurology	5	Average	45
+F1186	P81174	General Medicine	6	Very good	45
+F1187	P90601	Neurology	7	Satisfactory	45
+F1188	P22337	Oncology	3	Long wait times	45
+F1189	P60677	Neurology	8	Efficient process	45
+F1190	P75831	Oncology	4	Delayed response	45
+F1191	P68253	General Medicine	3	Long wait times	45
+F1192	P14650	Cardiology	9	Amazing team	30
+F1193	P15250	Cardiology	9	Highly recommended	30
+F1194	P10797	Neurology	8	Efficient process	45
+F1195	P30694	General Medicine	6	Very good	45
+F1196	P59755			Highly recommended	
+F1197	P80770	Oncology	3	Needs improvement	45
+F1198	P67482	Oncology	9	Amazing team	30
+F1199	P13204	Cardiology	5	Average	45

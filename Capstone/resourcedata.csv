@@ -1,0 +1,214 @@
+ResourceID	Department	ResourceType	UsageHours	Date	Availability
+R5487	Cardiology	Nurse	2	28/7/2024	Available
+R8097	Orthopedics	Doctor	0	10/9/2024	Unavailable
+R2557	General Medicine	Room	0	17/12/2024	Under Maintenance
+R9024	Neurology	Doctor	9	9/7/2024	Available
+R9181		Room	1		Available
+R2629	Oncology	Doctor	4	6/3/2024	Available
+R1317	Cardiology	Nurse	5	1/4/2024	Available
+R9640	Neurology	Room	1	16/10/2024	Available
+R1787	Oncology	Doctor	8	23/9/2024	Available
+R9426	Cardiology	Technician	5	13/4/2024	In Use
+R1606	General Medicine	Nurse	8	17/6/2024	Available
+R3242	Pediatric	Doctor	6	15/8/2024	Available
+R6893	Neurology	Doctor	3	4/5/2024	Available
+R3237	Orthopedics	Nurse	4	22/2/2024	Available
+R3237	Orthopedics	Nurse	4	22/2/2024	Available
+R5274	General Medicine	Doctor	7	20/1/2024	Available
+R1039	Neurology	Technician	5	24/10/2024	Available
+R5597	Neurology	Nurse	0	19/11/2024	Unavailable
+R2939	Pediatric	Room	8	17/8/2024	Available
+R8840	Neurology	Doctor	8	3/7/2024	Available
+R5074	Oncology	Room	4	26/12/2024	In Use
+R3855	Orthopedics		0		Unavailable
+R8405	Neurology	Technician	5	9/12/2024	Available
+R5984	Orthopedics	Equipment	3	18/12/2024	In Use
+R6968	General Medicine	Doctor	1	15/12/2024	Available
+R7116	Cardiology	Technician	8	10/4/2024	Available
+R4399	General Medicine	Room	0	23/9/2024	Under Maintenance
+R6261	Neurology	Equipment	0	13/7/2024	Under Maintenance
+R9923	Cardiology	Technician	8	31/1/2024	Available
+R9923	Cardiology	Technician	8	31/1/2024	Available
+R6097	Neurology	Nurse	9	16/8/2024	Available
+R1624	Oncology	Room	2	26/11/2024	In Use
+R6385	Oncology	Doctor	0	16/12/2024	Unavailable
+R2625	Neurology	Equipment	0	2/4/2024	Under Maintenance
+R3097	Orthopedics	Room	0	3/6/2024	Under Maintenance
+R5532	Pediatric	Room	7	1/4/2024	In Use
+R8648	Orthopedics	Technician	0	20/12/2024	Unavailable
+R6744	General Medicine	Equipment	0	21/12/2024	Under Maintenance
+R6436	General Medicine	Technician	4	4/5/2024	Available
+R4593	Orthopedics	Doctor	8	5/4/2024	Available
+R7325	Pediatric	Room	7	21/3/2024	In Use
+R7808	Neurology	Nurse	2	9/11/2024	Available
+R5805	General Medicine	Equipment	4	27/3/2024	In Use
+R3667	Oncology	Doctor	2	2/8/2024	Available
+R3667	Oncology	Doctor	2	2/8/2024	Available
+R2833	General Medicine	Equipment	3	3/8/2024	In Use
+	Oncology		1		Available
+R5799	General Medicine	Nurse	9	22/1/2024	Available
+R2825	Pediatric	Technician	8	25/2/2024	Available
+R5252	Pediatric	Nurse	7	23/6/2024	Available
+R7354	Pediatric	Doctor	9	28/2/2024	Available
+R2717	Cardiology	Technician	3	25/10/2024	Available
+R3782	Pediatric	Doctor	7	2/2/2024	In Use
+R1276	Oncology	Technician	9	4/12/2024	Available
+R2832	Pediatric	Technician	9	9/7/2024	Available
+R7226	Neurology	Technician	3	19/3/2024	Available
+R3607	Neurology	Equipment	9	11/3/2024	Available
+R9177	General Medicine	Technician	8	7/12/2024	Available
+R1427	General Medicine	Nurse	7	21/9/2024	Available
+R1427	General Medicine	Nurse	7	21/9/2024	Available
+R1381	Pediatric	Equipment	4	16/9/2024	Available
+R6613	Neurology	Nurse	0	20/10/2024	Unavailable
+R7395	Oncology	Technician	0	13/8/2024	Unavailable
+R8110	General Medicine	Equipment	1	27/11/2024	In Use
+R5282	Cardiology	Room	5	7/1/2024	Available
+R6766	Cardiology	Room	6	28/2/2024	Available
+R5926	Cardiology	Room	0	10/9/2024	Under Maintenance
+R5415	Cardiology	Equipment	0	22/12/2024	Under Maintenance
+R3528	Neurology	Nurse	2	16/1/2024	Available
+R9442	Orthopedics	Room	7	19/12/2024	Available
+R9566	General Medicine	Technician	9	21/11/2024	Available
+R8012	Neurology	Equipment	8	5/4/2024	In Use
+R4883	Cardiology	Technician	5	12/7/2024	Available
+R2401	Oncology	Equipment	5	28/4/2024	Available
+R2401	Oncology	Equipment	5	28/4/2024	Available
+R7211	Cardiology	Nurse	0	14/6/2024	Unavailable
+R9738	Oncology	Technician	8	25/4/2024	Available
+R1429	Neurology	Room	3	4/5/2024	In Use
+R7486	Cardiology	Doctor	0	20/7/2024	Unavailable
+R2221	Pediatric	Equipment	0	10/4/2024	Under Maintenance
+R8679		Doctor	2		Available
+R7880	Cardiology	Technician	7	25/12/2024	Available
+R9173	Orthopedics	Doctor	6	21/6/2024	Available
+R8674	Orthopedics	Room	2	31/7/2024	Available
+R3194	Neurology	Equipment	2	29/10/2024	In Use
+R8628	Cardiology	Equipment	6	18/11/2024	Available
+R8103	Pediatric	Room	7	6/9/2024	In Use
+R4911	Oncology	Equipment	0	28/5/2024	Under Maintenance
+R8724	Orthopedics	Nurse	0	16/1/2024	Unavailable
+R8724	Orthopedics	Nurse	0	16/1/2024	Unavailable
+R3152	General Medicine	Doctor	0	29/2/2024	Unavailable
+R8641	Cardiology	Room	9	19/8/2024	In Use
+R4369	General Medicine	Doctor	5	30/8/2024	Available
+R2354	Orthopedics	Doctor	7	4/4/2024	Available
+R9147	General Medicine	Room	2	4/4/2024	In Use
+R8105	Oncology	Equipment	0	25/6/2024	Under Maintenance
+R9167	Orthopedics	Technician	2	8/4/2024	Available
+R3746	General Medicine	Nurse	0	28/12/2024	Unavailable
+R9081	General Medicine	Technician	0	11/6/2024	Unavailable
+R1794	Oncology	Room	6	6/6/2024	Available
+R7782	Oncology	Doctor	0	4/11/2024	Unavailable
+R7818	Oncology	Room	0	19/3/2024	Under Maintenance
+R7818	Oncology	Room	0	19/3/2024	Under Maintenance
+R6399	Cardiology	Technician	7	7/4/2024	Available
+R4520	Oncology	Technician	0	26/5/2024	Unavailable
+R7243	Neurology	Technician	0	14/6/2024	Unavailable
+R5582	Neurology	Doctor	7	16/5/2024	Available
+R4033	Orthopedics	Technician	9	16/3/2024	Available
+R2577	Orthopedics	Room	6	25/8/2024	In Use
+R4743	General Medicine	Room	0	15/1/2024	Under Maintenance
+R3325	Orthopedics	Equipment	0	22/11/2024	Under Maintenance
+R1133	Pediatric	Technician	8	5/4/2024	Available
+R2734	Pediatric	Doctor	2	20/12/2024	Available
+R4411	Neurology	Technician	5	12/11/2024	Available
+R4657	Pediatric	Doctor	3	16/3/2024	Available
+R5595	General Medicine	Equipment	0	22/4/2024	Under Maintenance
+R3368	Pediatric	Room	6	7/7/2024	In Use
+R3590	Pediatric	Technician	6	1/6/2024	Available
+R3590	Pediatric	Technician	6	1/6/2024	Available
+R1636	Orthopedics	Room	0	29/6/2024	Under Maintenance
+R1419	Neurology	Technician	4	12/1/2024	Available
+R7729	General Medicine	Nurse	0	3/9/2024	Unavailable
+R7577	General Medicine	Technician	1	13/7/2024	Available
+R3762	Pediatric	Technician	5	18/7/2024	Available
+R6690	Pediatric	Equipment	5	31/7/2024	In Use
+R3388	General Medicine	Nurse	4	8/3/2024	Available
+R4334	General Medicine	Room	6	6/6/2024	In Use
+R7162	Neurology	Room	2	28/3/2024	Available
+R4580	Oncology	Nurse	7	9/7/2024	Available
+R3442	Oncology	Technician	3	10/9/2024	Available
+R1998	Cardiology	Technician	0	11/8/2024	Unavailable
+R3393	Oncology	Doctor	8	11/5/2024	Available
+R2004	Neurology	Equipment	4	17/10/2024	In Use
+	Cardiology		2		In Use
+R3795	Pediatric	Doctor	6	2/2/2024	Available
+R5550	Cardiology	Equipment	3	1/12/2024	Available
+R1369	Orthopedics	Nurse	4	3/10/2024	Available
+R9210	Neurology	Doctor	1	31/8/2024	Available
+R7907	Orthopedics	Equipment	2	2/9/2024	In Use
+R7907	Orthopedics	Equipment	2	2/9/2024	In Use
+R5061	General Medicine	Doctor	0	19/7/2024	Unavailable
+R3257	Neurology	Technician	6	23/9/2024	Available
+R6179	General Medicine	Technician	4	29/7/2024	Available
+R2158	Oncology	Nurse	3	16/3/2024	Available
+R4245	Cardiology	Room	8	8/12/2024	In Use
+R3900	General Medicine	Technician	8	22/6/2024	Available
+R8250	Neurology	Technician	0	31/5/2024	Unavailable
+R7871	Oncology	Doctor	7	31/5/2024	Available
+R8375	Neurology	Room	9	27/1/2024	Available
+R6418	Orthopedics	Room	0	27/5/2024	Under Maintenance
+R6093	General Medicine	Nurse	2	14/1/2024	Available
+R3410	Pediatric	Doctor	8	9/10/2024	Available
+R2697	Oncology	Nurse	3	24/4/2024	Available
+R5378	Cardiology	Equipment	3	15/8/2024	Available
+R3296	Oncology	Technician	5	22/3/2024	Available
+R1892	Oncology	Room	3	17/11/2024	Available
+R8443	Orthopedics	Equipment	2	13/2/2024	Available
+R8443	Orthopedics	Equipment	2	13/2/2024	Available
+R6719	Oncology	Room	7	5/6/2024	Available
+R1525	Pediatric	Room	4	20/11/2024	In Use
+R2602	Pediatric	Technician	5	29/10/2024	Available
+R2439	General Medicine	Room	0	23/11/2024	Under Maintenance
+R4120	Neurology	Doctor	3	26/2/2024	Available
+R6450	Neurology	Equipment	0	31/7/2024	Under Maintenance
+R3212	Pediatric	Doctor	0	23/9/2024	Unavailable
+R3470	Pediatric	Nurse	5	3/2/2024	In Use
+R4198	Orthopedics	Equipment	0	5/4/2024	Under Maintenance
+R6653	General Medicine	Technician	4	19/2/2024	Available
+R9325	General Medicine	Technician	2	30/9/2024	Available
+R5653	Pediatric	Doctor	6	8/7/2024	Available
+R9221	Oncology	Technician	1	23/11/2024	Available
+R4576	General Medicine	Equipment	9	10/1/2024	Available
+R4576	General Medicine	Equipment	9	10/1/2024	Available
+R5250	Oncology	Equipment	1	1/7/2024	In Use
+R9942	Oncology	Room	0	15/2/2024	Under Maintenance
+R9637	Oncology	Technician	9	23/4/2024	Available
+R6571	Neurology	Nurse	2	22/5/2024	Available
+R8275	General Medicine	Nurse	5	1/7/2024	Available
+R3024	General Medicine	Nurse	5	28/7/2024	Available
+R9407	Orthopedics	Nurse	4	17/11/2024	Available
+R4375	Pediatric	Technician	4	17/3/2024	Available
+R4311	Pediatric	Nurse	1	3/3/2024	Available
+R6892	Pediatric	Doctor	6	9/5/2024	Available
+R5035	General Medicine	Equipment	0	25/5/2024	Under Maintenance
+R8869	Oncology	Nurse	6	2/11/2024	Available
+R1032	General Medicine	Nurse	9	3/6/2024	Available
+R7483	Pediatric	Doctor	0	21/2/2024	Unavailable
+R7873	Pediatric	Nurse	0	30/10/2024	Unavailable
+R7873	Pediatric	Nurse	0	30/10/2024	Unavailable
+R5286	Orthopedics	Doctor	9	7/3/2024	Available
+R6508	Orthopedics	Doctor	8	27/2/2024	Available
+R7949	Neurology	Nurse	0	3/8/2024	Unavailable
+R9477	Oncology	Equipment	0	10/7/2024	Under Maintenance
+R4395	Oncology	Doctor	4	29/6/2024	Available
+R3146	Orthopedics	Doctor	8	6/4/2024	Available
+R2220	Pediatric	Technician	6	8/4/2024	Available
+R7334	Oncology	Room	3	3/1/2024	In Use
+R1597	Neurology	Equipment	9	8/10/2024	Available
+R3553	Pediatric	Room	9	7/7/2024	Available
+R3833	Pediatric	Technician	0	8/9/2024	Unavailable
+R7417	Orthopedics	Technician	0	28/1/2024	Unavailable
+R7417	Orthopedics	Technician	0	28/1/2024	Unavailable
+R3526	General Medicine	Nurse	5	15/5/2024	Available
+R5504	Pediatric	Nurse	0	12/6/2024	Unavailable
+R8032	Pediatric	Technician	6	13/3/2024	Available
+R2554	Pediatric	Nurse	0	23/5/2024	Unavailable
+R9553	Oncology	Doctor	0	26/1/2024	Unavailable
+	Oncology		9		Unavailable
+R1385	Pediatric	Doctor	0	26/3/2024	Unavailable
+R8161	General Medicine	Equipment	1	19/12/2024	Available
+R5806	Pediatric	Doctor	8	17/3/2024	Available
+R1560	Pediatric	Technician	6	20/5/2024	Available
+R3933	Neurology	Doctor	8	3/10/2024	Available

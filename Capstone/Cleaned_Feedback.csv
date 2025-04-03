@@ -1,0 +1,192 @@
+index,FeedbackID,PatientID,Department,Feedback Score,Comments,WaitTime
+0,F1000,P99601,Cardiology,4.0,Delayed response,45.0
+1,F1001,P36565,Orthopedics,3.0,Needs improvement,45.0
+3,F1003,P67499,Neurology,9.0,Amazing team,30.0
+4,F1004,P49994,Pediatric,8.0,Great doctors,45.0
+5,F1005,P31843,Pediatric,5.0,Satisfactory,45.0
+6,F1006,P63392,Neurology,4.0,Delayed response,45.0
+7,F1007,P66658,Neurology,7.0,Child-friendly staff,45.0
+8,F1008,P95953,Cardiology,7.0,Child-friendly staff,45.0
+9,F1009,P80770,Orthopedics,4.0,Delayed response,45.0
+10,F1010,P29680,Orthopedics,4.0,Room cleanliness issue,45.0
+11,F1011,P93978,Orthopedics,3.0,Long wait times,45.0
+12,F1012,P25878,Pediatric,7.0,Child-friendly staff,45.0
+13,F1013,P41254,Cardiology,3.0,Long wait times,45.0
+14,F1014,P73818,Orthopedics,3.0,Long wait times,45.0
+15,F1015,P79312,Neurology,6.0,Very good,45.0
+16,F1016,P82827,Neurology,5.0,Average,45.0
+18,F1018,P93291,Neurology,8.0,Efficient process,45.0
+19,F1019,P14299,Cardiology,8.0,Great doctors,45.0
+20,F1020,P90461,Oncology,3.0,Needs improvement,45.0
+21,F1021,P77174,Pediatric,4.0,Delayed response,45.0
+22,F1022,P38694,General Medicine,7.0,Child-friendly staff,45.0
+23,F1023,P45916,General Medicine,4.0,Delayed response,45.0
+24,F1024,P67499,General Medicine,9.0,Highly recommended,30.0
+25,F1025,P68619,Pediatric,4.0,Delayed response,45.0
+26,F1026,P11071,Orthopedics,7.0,Child-friendly staff,45.0
+27,F1027,P18878,Pediatric,7.0,Satisfactory,45.0
+28,F1028,P88817,Pediatric,3.0,Needs improvement,45.0
+29,F1029,P70452,Neurology,9.0,Excellent care,30.0
+30,F1030,P79213,General Medicine,4.0,Room cleanliness issue,45.0
+31,F1031,P92292,Orthopedics,3.0,Needs improvement,45.0
+32,F1032,P46858,Oncology,5.0,Average,45.0
+33,F1033,P10337,Neurology,9.0,Highly recommended,30.0
+34,F1034,P76416,Oncology,6.0,Very good,45.0
+35,F1035,P47558,Orthopedics,9.0,Amazing team,30.0
+36,F1036,P10851,General Medicine,7.0,Helpful staff,45.0
+37,F1037,P70960,General Medicine,3.0,Long wait times,45.0
+38,F1038,P15042,General Medicine,5.0,Average,45.0
+39,F1039,P56742,Pediatric,9.0,Good service,30.0
+40,F1040,P30132,Pediatric,9.0,Amazing team,30.0
+41,F1041,P43686,Neurology,7.0,Helpful staff,45.0
+42,F1042,P43188,Neurology,4.0,Delayed response,45.0
+43,F1043,P35517,Cardiology,5.0,Average,45.0
+44,F1044,P87789,Orthopedics,9.0,Highly recommended,30.0
+45,F1045,P76847,Orthopedics,7.0,Child-friendly staff,45.0
+46,F1046,P97899,Neurology,5.0,Average,45.0
+48,F1048,P22024,Neurology,7.0,Child-friendly staff,45.0
+49,F1049,P61654,Pediatric,4.0,Room cleanliness issue,45.0
+50,F1050,P25059,Orthopedics,3.0,Needs improvement,45.0
+51,F1051,P80104,Cardiology,9.0,Excellent care,30.0
+52,F1052,P89217,Cardiology,8.0,Efficient process,45.0
+53,F1053,P40896,Cardiology,9.0,Amazing team,30.0
+54,F1054,P69830,Neurology,4.0,Delayed response,45.0
+55,F1055,P93573,Oncology,4.0,Delayed response,45.0
+56,F1056,P27259,Neurology,3.0,Long wait times,45.0
+57,F1057,P11866,General Medicine,3.0,Needs improvement,45.0
+58,F1058,P82148,Oncology,9.0,Good service,30.0
+59,F1059,P96356,Neurology,9.0,Amazing team,30.0
+60,F1060,P95475,Neurology,6.0,Very good,45.0
+61,F1061,P24760,Oncology,9.0,Amazing team,30.0
+62,F1062,P94013,Cardiology,5.0,Average,45.0
+63,F1063,P28262,Neurology,7.0,Satisfactory,45.0
+64,F1064,P27012,General Medicine,8.0,Great doctors,45.0
+65,F1065,P16262,Oncology,9.0,Amazing team,30.0
+66,F1066,P42600,General Medicine,3.0,Long wait times,45.0
+67,F1067,P59519,Oncology,8.0,Efficient process,45.0
+68,F1068,P87869,General Medicine,9.0,Highly recommended,30.0
+69,F1069,P63392,Cardiology,9.0,Amazing team,30.0
+70,F1070,P77563,Neurology,9.0,Good service,30.0
+71,F1071,P29377,Orthopedics,8.0,Efficient process,45.0
+72,F1072,P68223,Neurology,8.0,Efficient process,45.0
+73,F1073,P55949,Pediatric,9.0,Excellent care,30.0
+74,F1074,P23588,Cardiology,8.0,Efficient process,45.0
+75,F1075,P73075,Oncology,4.0,Delayed response,45.0
+76,F1076,P82492,Neurology,6.0,Very good,45.0
+77,F1077,P77493,Orthopedics,8.0,Efficient process,45.0
+78,F1079,P59755,General Medicine,4.0,Delayed response,45.0
+79,F1080,P71033,Oncology,3.0,Long wait times,45.0
+80,F1081,P66658,Cardiology,7.0,Satisfactory,45.0
+81,F1082,P76574,Cardiology,4.0,Room cleanliness issue,45.0
+82,F1083,P34541,Oncology,9.0,Highly recommended,30.0
+83,F1084,P22316,Oncology,9.0,Excellent care,30.0
+84,F1085,P28861,Pediatric,9.0,Highly recommended,30.0
+85,F1086,P11217,Cardiology,8.0,Efficient process,45.0
+86,F1087,P56741,Oncology,7.0,Child-friendly staff,45.0
+87,F1088,P19592,Pediatric,8.0,Great doctors,45.0
+88,F1089,P94928,Orthopedics,7.0,Satisfactory,45.0
+89,F1090,P73844,Orthopedics,4.0,Room cleanliness issue,45.0
+90,F1091,P50711,General Medicine,8.0,Efficient process,45.0
+91,F1092,P30920,Pediatric,7.0,Satisfactory,45.0
+92,F1093,P26650,Orthopedics,4.0,Room cleanliness issue,45.0
+93,F1094,P22791,Oncology,9.0,Highly recommended,30.0
+94,F1095,P17310,General Medicine,6.0,Very good,45.0
+95,F1096,P61087,Pediatric,9.0,Amazing team,30.0
+96,F1097,P81824,Neurology,4.0,Room cleanliness issue,45.0
+97,F1098,P24131,Cardiology,4.0,Delayed response,45.0
+98,F1099,P55235,Oncology,6.0,Very good,45.0
+99,F1100,P65114,Orthopedics,9.0,Excellent care,30.0
+100,F1101,P88218,Pediatric,8.0,Efficient process,45.0
+101,F1102,P34644,Neurology,4.0,Delayed response,45.0
+102,F1103,P29322,Neurology,7.0,Satisfactory,45.0
+104,F1105,P93372,General Medicine,4.0,Delayed response,45.0
+105,F1106,P33026,Orthopedics,8.0,Great doctors,45.0
+106,F1107,P47436,Cardiology,8.0,Efficient process,45.0
+107,F1108,P48965,Oncology,9.0,Highly recommended,30.0
+108,F1109,P20771,Pediatric,6.0,Very good,45.0
+109,F1110,P32966,Pediatric,6.0,Very good,45.0
+110,F1111,P65077,General Medicine,4.0,Delayed response,45.0
+111,F1112,P30147,Oncology,3.0,Long wait times,45.0
+112,F1113,P28668,Pediatric,4.0,Delayed response,45.0
+113,F1114,P54890,Oncology,4.0,Room cleanliness issue,45.0
+114,F1115,P77589,Pediatric,3.0,Long wait times,45.0
+115,F1116,P59917,General Medicine,7.0,Satisfactory,45.0
+116,F1117,P89260,Oncology,9.0,Amazing team,30.0
+117,F1118,P22612,Orthopedics,9.0,Good service,30.0
+118,F1119,P10983,Neurology,7.0,Helpful staff,45.0
+119,F1120,P61404,Cardiology,8.0,Efficient process,45.0
+120,F1121,P68408,Neurology,8.0,Great doctors,45.0
+121,F1122,P80709,Cardiology,4.0,Delayed response,45.0
+122,F1123,P22483,Orthopedics,3.0,Long wait times,45.0
+123,F1124,P29433,General Medicine,4.0,Delayed response,45.0
+124,F1126,P63392,Orthopedics,7.0,Satisfactory,45.0
+125,F1127,P24186,General Medicine,7.0,Helpful staff,45.0
+126,F1128,P12075,Pediatric,4.0,Delayed response,45.0
+127,F1129,P80770,Oncology,9.0,Highly recommended,30.0
+128,F1130,P17033,Orthopedics,3.0,Long wait times,45.0
+129,F1131,P53406,Cardiology,3.0,Long wait times,45.0
+130,F1132,P74577,Oncology,8.0,Efficient process,45.0
+131,F1133,P54686,Cardiology,9.0,Amazing team,30.0
+133,F1135,P66658,Oncology,9.0,Amazing team,30.0
+134,F1136,P46158,Cardiology,9.0,Highly recommended,30.0
+135,F1137,P47910,Orthopedics,8.0,Efficient process,45.0
+136,F1138,P69894,Pediatric,9.0,Good service,30.0
+137,F1139,P86247,Pediatric,5.0,Average,45.0
+138,F1140,P38330,Pediatric,3.0,Needs improvement,45.0
+139,F1141,P42193,General Medicine,8.0,Efficient process,45.0
+140,F1142,P29032,Pediatric,3.0,Long wait times,45.0
+141,F1143,P72811,Orthopedics,3.0,Needs improvement,45.0
+142,F1144,P96259,Orthopedics,4.0,Room cleanliness issue,45.0
+143,F1145,P44251,Neurology,4.0,Room cleanliness issue,45.0
+144,F1146,P16884,Pediatric,8.0,Efficient process,45.0
+145,F1147,P81817,General Medicine,3.0,Needs improvement,45.0
+146,F1148,P77843,Cardiology,9.0,Good service,30.0
+147,F1149,P57937,Cardiology,8.0,Great doctors,45.0
+148,F1150,P82099,Orthopedics,8.0,Efficient process,45.0
+149,F1151,P94085,Pediatric,9.0,Amazing team,30.0
+150,F1152,P50596,Pediatric,5.0,Average,45.0
+151,F1153,P52297,Neurology,4.0,Delayed response,45.0
+153,F1155,P84444,Cardiology,8.0,Efficient process,45.0
+154,F1156,P84949,Pediatric,3.0,Needs improvement,45.0
+155,F1157,P53519,Neurology,4.0,Delayed response,45.0
+156,F1158,P38037,Pediatric,9.0,Highly recommended,30.0
+157,F1159,P28397,Pediatric,6.0,Long wait times,45.0
+158,F1160,P41694,Oncology,4.0,Long wait times,45.0
+159,F1161,P64103,Oncology,9.0,Excellent care,30.0
+160,F1162,P87617,Pediatric,4.0,Delayed response,45.0
+161,F1163,P28106,Orthopedics,8.0,Efficient process,45.0
+162,F1164,P81675,General Medicine,4.0,Long wait times,45.0
+163,F1165,P42541,Orthopedics,7.0,Child-friendly staff,45.0
+164,F1166,P90961,Orthopedics,9.0,Good service,30.0
+165,F1167,P89375,Oncology,8.0,Great doctors,45.0
+166,F1168,P50132,Cardiology,6.0,Very good,45.0
+167,F1169,P32413,Oncology,3.0,Needs improvement,45.0
+168,F1170,P22184,Oncology,6.0,Very good,45.0
+169,F1171,P50298,Cardiology,4.0,Room cleanliness issue,45.0
+170,F1172,P36715,Cardiology,9.0,Highly recommended,30.0
+171,F1173,P88279,Pediatric,7.0,Child-friendly staff,45.0
+172,F1174,P55468,Pediatric,7.0,Helpful staff,45.0
+173,F1175,P22511,Cardiology,8.0,Efficient process,45.0
+174,F1176,P95021,Cardiology,9.0,Excellent care,30.0
+175,F1177,P43786,Pediatric,9.0,Highly recommended,30.0
+176,F1178,P18635,Pediatric,6.0,Very good,45.0
+177,F1179,P28088,General Medicine,4.0,Delayed response,45.0
+178,F1180,P88045,Neurology,6.0,Very good,45.0
+179,F1181,P95964,Pediatric,8.0,Efficient process,45.0
+180,F1182,P32057,Oncology,8.0,Efficient process,45.0
+181,F1183,P32295,Cardiology,9.0,Excellent care,30.0
+182,F1184,P40762,Neurology,5.0,Average,45.0
+183,F1185,P86619,Neurology,5.0,Average,45.0
+184,F1186,P81174,General Medicine,6.0,Very good,45.0
+185,F1187,P90601,Neurology,7.0,Satisfactory,45.0
+186,F1188,P22337,Oncology,3.0,Long wait times,45.0
+187,F1189,P60677,Neurology,8.0,Efficient process,45.0
+188,F1190,P75831,Oncology,4.0,Delayed response,45.0
+189,F1191,P68253,General Medicine,3.0,Long wait times,45.0
+190,F1192,P14650,Cardiology,9.0,Amazing team,30.0
+191,F1193,P15250,Cardiology,9.0,Highly recommended,30.0
+192,F1194,P10797,Neurology,8.0,Efficient process,45.0
+193,F1195,P30694,General Medicine,6.0,Very good,45.0
+195,F1197,P80770,Oncology,3.0,Needs improvement,45.0
+196,F1198,P67482,Oncology,9.0,Amazing team,30.0
+197,F1199,P13204,Cardiology,5.0,Average,45.0
