@@ -1,0 +1,192 @@
+PatientID,Department_x,Date,Time,Status,Feedback Score,WaitTime,Satisfaction Level
+P16262,Orthopedics,10/9/2024,13:00,No Show,9.0,30.0,High
+P99601,Cardiology,17/12/2024,15:00,Completed,4.0,45.0,High
+P55235,Neurology,9/7/2024,15:30,Rescheduled,6.0,45.0,High
+P93372,Pediatric,12/8/2024,18:00,Cancelled,4.0,45.0,High
+P84444,Pediatric,6/3/2024,17:30,Rescheduled,8.0,45.0,High
+P29680,Orthopedics,17/6/2024,8:30,No Show,4.0,45.0,High
+P93978,Orthopedics,15/8/2024,15:30,No Show,3.0,45.0,Low
+P41254,Cardiology,22/2/2024,8:00,Completed,3.0,45.0,Low
+P73818,Orthopedics,20/1/2024,18:00,Rescheduled,3.0,45.0,Low
+P79312,Neurology,24/10/2024,15:00,Completed,6.0,45.0,High
+P82827,Neurology,19/11/2024,14:30,Completed,5.0,45.0,High
+P25878,Pediatric,17/8/2024,16:00,Cancelled,7.0,45.0,High
+P93291,Neurology,3/7/2024,18:00,Rescheduled,8.0,45.0,High
+P14299,Cardiology,26/12/2024,12:30,Cancelled,8.0,45.0,High
+P90461,Oncology,14/12/2024,13:00,Cancelled,3.0,45.0,Low
+P77174,Pediatric,9/12/2024,9:30,Rescheduled,4.0,45.0,High
+P38694,General Medicine,18/12/2024,10:00,No Show,7.0,45.0,High
+P45916,General Medicine,15/12/2024,18:00,Rescheduled,4.0,45.0,High
+P68619,Pediatric,23/9/2024,18:00,Completed,4.0,45.0,High
+P11071,Orthopedics,13/7/2024,18:30,Cancelled,7.0,45.0,High
+P18878,Pediatric,31/1/2024,18:00,No Show,7.0,45.0,High
+P88817,Pediatric,16/8/2024,16:00,Cancelled,3.0,45.0,Low
+P70452,Neurology,26/11/2024,10:00,No Show,9.0,30.0,High
+P79213,General Medicine,16/12/2024,8:30,Rescheduled,4.0,45.0,High
+P92292,Orthopedics,2/4/2024,17:30,No Show,3.0,45.0,Low
+P46858,Oncology,3/6/2024,15:30,Rescheduled,5.0,45.0,High
+P10337,Neurology,1/4/2024,10:00,Cancelled,9.0,30.0,High
+P76416,Oncology,20/12/2024,13:30,No Show,6.0,45.0,High
+P47558,Orthopedics,21/12/2024,16:30,No Show,9.0,30.0,High
+P10851,General Medicine,4/5/2024,16:30,Completed,7.0,45.0,High
+P70960,General Medicine,5/4/2024,8:30,Completed,3.0,45.0,Low
+P56742,Pediatric,9/11/2024,13:30,Rescheduled,9.0,30.0,High
+P30132,Pediatric,27/3/2024,17:00,Completed,9.0,30.0,High
+P43686,Neurology,2/8/2024,12:30,Rescheduled,7.0,45.0,High
+P43188,Neurology,3/8/2024,18:30,Cancelled,4.0,45.0,High
+P35517,Cardiology,20/10/2024,9:30,Cancelled,5.0,45.0,High
+P87789,Orthopedics,22/1/2024,16:00,No Show,9.0,30.0,High
+P76847,Orthopedics,25/2/2024,9:30,Cancelled,7.0,45.0,High
+P97899,Neurology,23/6/2024,10:00,Cancelled,5.0,45.0,High
+P67499,General Medicine,28/2/2024,18:30,Cancelled,9.0,30.0,High
+P67499,General Medicine,28/2/2024,18:30,Cancelled,9.0,30.0,High
+P22024,Neurology,25/10/2024,18:00,No Show,7.0,45.0,High
+P61654,Pediatric,2/2/2024,9:30,No Show,4.0,45.0,High
+P25059,Orthopedics,4/12/2024,11:00,Rescheduled,3.0,45.0,Low
+P80104,Cardiology,9/7/2024,12:00,Rescheduled,9.0,30.0,High
+P89217,Cardiology,19/3/2024,18:00,Completed,8.0,45.0,High
+P40896,Cardiology,11/3/2024,15:30,Cancelled,9.0,30.0,High
+P93573,Oncology,21/9/2024,16:30,No Show,4.0,45.0,High
+P27259,Neurology,16/9/2024,15:30,Cancelled,3.0,45.0,Low
+P11866,General Medicine,20/10/2024,18:00,Cancelled,3.0,45.0,Low
+P82148,Oncology,13/8/2024,18:00,No Show,9.0,30.0,High
+P96356,Neurology,27/11/2024,9:00,Completed,9.0,30.0,High
+P95475,Neurology,7/1/2024,16:00,No Show,6.0,45.0,High
+P24760,Oncology,28/2/2024,11:30,No Show,9.0,30.0,High
+P94013,Cardiology,10/9/2024,17:30,Cancelled,5.0,45.0,High
+P28262,Neurology,22/12/2024,11:00,Rescheduled,7.0,45.0,High
+P27012,General Medicine,16/1/2024,18:30,Rescheduled,8.0,45.0,High
+P42600,General Medicine,21/11/2024,16:30,Cancelled,3.0,45.0,Low
+P59519,Oncology,5/4/2024,12:00,Completed,8.0,45.0,High
+P87869,General Medicine,12/7/2024,17:00,No Show,9.0,30.0,High
+P77563,Neurology,14/6/2024,8:00,Rescheduled,9.0,30.0,High
+P29377,Orthopedics,25/4/2024,18:00,No Show,8.0,45.0,High
+P68223,Neurology,4/5/2024,11:30,Rescheduled,8.0,45.0,High
+P55949,Pediatric,20/7/2024,18:30,Completed,9.0,30.0,High
+P23588,Cardiology,10/4/2024,8:00,Completed,8.0,45.0,High
+P73075,Oncology,31/3/2024,9:00,No Show,4.0,45.0,High
+P82492,Neurology,25/12/2024,12:00,Rescheduled,6.0,45.0,High
+P77493,Orthopedics,21/6/2024,15:00,Cancelled,8.0,45.0,High
+P22316,Orthopedics,31/7/2024,14:00,No Show,9.0,30.0,High
+P49994,General Medicine,29/10/2024,17:00,Completed,8.0,45.0,High
+P71033,Oncology,18/11/2024,16:00,Cancelled,3.0,45.0,Low
+P28668,Cardiology,6/9/2024,12:00,Rescheduled,4.0,45.0,High
+P76574,Cardiology,28/5/2024,16:30,Cancelled,4.0,45.0,High
+P34541,Oncology,16/1/2024,16:30,Rescheduled,9.0,30.0,High
+P28861,Pediatric,19/8/2024,8:00,Rescheduled,9.0,30.0,High
+P11217,Cardiology,30/8/2024,17:30,Rescheduled,8.0,45.0,High
+P56741,Oncology,4/4/2024,17:30,Rescheduled,7.0,45.0,High
+P19592,Pediatric,4/4/2024,17:00,Completed,8.0,45.0,High
+P94928,Orthopedics,25/6/2024,15:00,Completed,7.0,45.0,High
+P73844,Orthopedics,8/4/2024,17:00,No Show,4.0,45.0,High
+P50711,General Medicine,28/12/2024,14:00,Rescheduled,8.0,45.0,High
+P30920,Pediatric,11/6/2024,11:00,Cancelled,7.0,45.0,High
+P26650,Orthopedics,6/6/2024,18:30,Completed,4.0,45.0,High
+P22791,Oncology,4/11/2024,16:00,Cancelled,9.0,30.0,High
+P17310,General Medicine,19/3/2024,16:00,Completed,6.0,45.0,High
+P61087,Pediatric,7/4/2024,8:30,Cancelled,9.0,30.0,High
+P81824,Neurology,26/5/2024,10:30,Cancelled,4.0,45.0,High
+P24131,Cardiology,14/6/2024,12:00,No Show,4.0,45.0,High
+P38330,Oncology,16/5/2024,18:30,Rescheduled,3.0,45.0,Low
+P65114,Orthopedics,16/3/2024,10:00,Completed,9.0,30.0,High
+P88218,Pediatric,25/8/2024,10:30,Completed,8.0,45.0,High
+P34644,Neurology,15/1/2024,12:30,Rescheduled,4.0,45.0,High
+P29322,Neurology,22/11/2024,18:30,Completed,7.0,45.0,High
+P64103,Cardiology,5/4/2024,9:00,Cancelled,9.0,30.0,High
+P31843,Neurology,20/12/2024,10:30,Completed,5.0,45.0,High
+P33026,Orthopedics,12/11/2024,8:30,No Show,8.0,45.0,High
+P47436,Cardiology,16/3/2024,14:30,Rescheduled,8.0,45.0,High
+P48965,Oncology,22/4/2024,18:00,Rescheduled,9.0,30.0,High
+P20771,Pediatric,7/7/2024,16:30,Rescheduled,6.0,45.0,High
+P32966,Pediatric,1/6/2024,10:00,Completed,6.0,45.0,High
+P65077,General Medicine,29/6/2024,11:00,Completed,4.0,45.0,High
+P30147,Oncology,12/1/2024,18:00,Completed,3.0,45.0,Low
+P54890,Oncology,13/7/2024,8:00,Completed,4.0,45.0,High
+P77589,Pediatric,18/7/2024,10:00,Rescheduled,3.0,45.0,Low
+P59917,General Medicine,31/7/2024,10:00,Cancelled,7.0,45.0,High
+P89260,Oncology,8/3/2024,17:00,No Show,9.0,30.0,High
+P22612,Orthopedics,6/6/2024,17:00,Completed,9.0,30.0,High
+P10983,Neurology,28/3/2024,17:00,Completed,7.0,45.0,High
+P61404,Cardiology,9/7/2024,11:30,Rescheduled,8.0,45.0,High
+P68408,Neurology,10/9/2024,12:00,Completed,8.0,45.0,High
+P80709,Cardiology,11/8/2024,15:30,Rescheduled,4.0,45.0,High
+P22483,Orthopedics,11/5/2024,14:00,Completed,3.0,45.0,Low
+P29433,General Medicine,17/10/2024,13:30,Completed,4.0,45.0,High
+P81174,Orthopedics,8/9/2024,17:00,Completed,6.0,45.0,High
+P63392,Cardiology,2/2/2024,15:00,Rescheduled,4.0,45.0,High
+P63392,Cardiology,2/2/2024,15:00,Rescheduled,9.0,30.0,High
+P63392,Cardiology,2/2/2024,15:00,Rescheduled,7.0,45.0,High
+P24186,General Medicine,1/12/2024,15:30,Cancelled,7.0,45.0,High
+P12075,Pediatric,3/10/2024,9:00,Completed,4.0,45.0,High
+P36565,Oncology,31/8/2024,11:00,Cancelled,3.0,45.0,Low
+P17033,Orthopedics,2/9/2024,12:30,Completed,3.0,45.0,Low
+P53406,Cardiology,19/7/2024,17:30,Cancelled,3.0,45.0,Low
+P74577,Oncology,23/9/2024,10:00,Completed,8.0,45.0,High
+P54686,Cardiology,29/7/2024,13:00,No Show,9.0,30.0,High
+P15042,Cardiology,16/3/2024,17:30,Completed,5.0,45.0,High
+P66658,Cardiology,8/12/2024,14:30,Completed,7.0,45.0,High
+P66658,Cardiology,8/12/2024,14:30,Completed,7.0,45.0,High
+P66658,Cardiology,8/12/2024,14:30,Completed,9.0,30.0,High
+P46158,Cardiology,22/6/2024,11:00,Completed,9.0,30.0,High
+P47910,Orthopedics,31/5/2024,18:30,Rescheduled,8.0,45.0,High
+P69894,Pediatric,31/5/2024,17:30,Cancelled,9.0,30.0,High
+P86247,Pediatric,27/1/2024,10:00,Cancelled,5.0,45.0,High
+P42193,General Medicine,14/1/2024,12:00,Completed,8.0,45.0,High
+P29032,Pediatric,9/10/2024,11:30,No Show,3.0,45.0,Low
+P72811,Orthopedics,24/4/2024,18:30,Rescheduled,3.0,45.0,Low
+P96259,Orthopedics,15/8/2024,9:00,Completed,4.0,45.0,High
+P44251,Neurology,22/3/2024,17:00,No Show,4.0,45.0,High
+P16884,Pediatric,17/11/2024,13:30,No Show,8.0,45.0,High
+P81817,General Medicine,13/2/2024,8:30,No Show,3.0,45.0,Low
+P77843,Cardiology,5/6/2024,12:30,Completed,9.0,30.0,High
+P57937,Cardiology,20/11/2024,14:00,Cancelled,8.0,45.0,High
+P82099,Orthopedics,29/10/2024,15:30,No Show,8.0,45.0,High
+P94085,Pediatric,23/11/2024,13:00,No Show,9.0,30.0,High
+P50596,Pediatric,26/2/2024,10:30,Rescheduled,5.0,45.0,High
+P52297,Neurology,31/7/2024,12:00,No Show,4.0,45.0,High
+P69830,Cardiology,23/9/2024,12:00,Completed,4.0,45.0,High
+P95953,Oncology,3/2/2024,9:30,Completed,7.0,45.0,High
+P84949,Pediatric,5/4/2024,18:00,Completed,3.0,45.0,Low
+P53519,Neurology,19/2/2024,8:00,Completed,4.0,45.0,High
+P38037,Pediatric,30/9/2024,14:00,No Show,9.0,30.0,High
+P28397,Pediatric,8/7/2024,14:30,Cancelled,6.0,45.0,High
+P41694,Oncology,23/11/2024,15:00,Completed,4.0,45.0,High
+P87617,Pediatric,1/7/2024,12:30,Rescheduled,4.0,45.0,High
+P28106,Orthopedics,15/2/2024,11:00,Cancelled,8.0,45.0,High
+P81675,General Medicine,23/4/2024,11:00,Rescheduled,4.0,45.0,High
+P42541,Orthopedics,22/5/2024,11:00,Rescheduled,7.0,45.0,High
+P90961,Orthopedics,1/7/2024,17:30,No Show,9.0,30.0,High
+P89375,Oncology,28/7/2024,17:00,Rescheduled,8.0,45.0,High
+P50132,Cardiology,17/11/2024,8:00,Completed,6.0,45.0,High
+P32413,Oncology,17/3/2024,18:00,Cancelled,3.0,45.0,Low
+P22184,Oncology,3/3/2024,15:00,Rescheduled,6.0,45.0,High
+P50298,Cardiology,9/5/2024,8:00,Completed,4.0,45.0,High
+P36715,Cardiology,25/5/2024,13:00,Rescheduled,9.0,30.0,High
+P88279,Pediatric,2/11/2024,8:00,Rescheduled,7.0,45.0,High
+P55468,Pediatric,3/6/2024,9:30,Completed,7.0,45.0,High
+P22511,Cardiology,21/2/2024,15:00,Cancelled,8.0,45.0,High
+P95021,Cardiology,30/10/2024,16:00,No Show,9.0,30.0,High
+P43786,Pediatric,7/3/2024,9:00,Rescheduled,9.0,30.0,High
+P18635,Pediatric,27/2/2024,14:30,Rescheduled,6.0,45.0,High
+P28088,General Medicine,3/8/2024,12:00,Cancelled,4.0,45.0,High
+P88045,Neurology,10/7/2024,18:30,Cancelled,6.0,45.0,High
+P95964,Pediatric,29/6/2024,8:00,Completed,8.0,45.0,High
+P32057,Oncology,6/4/2024,12:00,No Show,8.0,45.0,High
+P32295,Cardiology,8/4/2024,8:30,Cancelled,9.0,30.0,High
+P40762,Neurology,3/1/2024,12:00,Completed,5.0,45.0,High
+P86619,Neurology,8/10/2024,16:30,Completed,5.0,45.0,High
+P90601,Neurology,8/9/2024,8:00,No Show,7.0,45.0,High
+P22337,Oncology,28/1/2024,16:00,Completed,3.0,45.0,Low
+P60677,Neurology,15/5/2024,14:30,No Show,8.0,45.0,High
+P75831,Oncology,12/6/2024,16:00,Cancelled,4.0,45.0,High
+P68253,General Medicine,13/3/2024,14:00,No Show,3.0,45.0,Low
+P14650,Cardiology,23/5/2024,15:30,No Show,9.0,30.0,High
+P15250,Cardiology,26/1/2024,14:30,Completed,9.0,30.0,High
+P10797,Neurology,23/8/2024,11:00,Cancelled,8.0,45.0,High
+P30694,General Medicine,26/3/2024,9:30,Cancelled,6.0,45.0,High
+P59755,General Medicine,19/12/2024,9:00,No Show,4.0,45.0,High
+P80770,Oncology,17/3/2024,9:00,No Show,4.0,45.0,High
+P80770,Oncology,17/3/2024,9:00,No Show,9.0,30.0,High
+P80770,Oncology,17/3/2024,9:00,No Show,3.0,45.0,Low
+P67482,Oncology,20/5/2024,11:30,No Show,9.0,30.0,High
+P13204,Cardiology,3/10/2024,11:30,Cancelled,5.0,45.0,High
