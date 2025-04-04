@@ -1,5 +1,6 @@
 # IBMBA
-## IBM Business Analyst Professional Certificate
+
+## IBM Business Analyst Professional Certificate (7 course series)
 
 Kickstart your career with the IBM Business Analyst Professional Certificate — a comprehensive program designed to equip you with the job-ready skills needed to thrive in a growing field.  With an 11% projected growth in management analyst positions (2022–2032, U.S. Labor Department) and average U.S. salaries for Business Analysts as $85,452 and $84,998 for women and men respectively (IIBA), this program sets you up for success.
 
